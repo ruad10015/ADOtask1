@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOtask1", "ADOtask1\ADOtask1.csproj", "{96DB5BBD-D325-49B6-B15D-3C7A2C2C2D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DB5BBD-D325-49B6-B15D-3C7A2C2C2D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DB5BBD-D325-49B6-B15D-3C7A2C2C2D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DB5BBD-D325-49B6-B15D-3C7A2C2C2D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DB5BBD-D325-49B6-B15D-3C7A2C2C2D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2AC1CFA-3CC0-4112-9023-78B95064EC31}
+	EndGlobalSection
+EndGlobal
